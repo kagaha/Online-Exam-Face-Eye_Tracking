@@ -1,0 +1,82 @@
+[
+    {
+        "Id": 2,
+        "Name": "Ruthik",
+        "TotalMark": 33,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_002Profile.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "Ruthik",
+        "TotalMark": 46,
+        "TrustScore": 8.0,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_003Profile.jpg"
+    },
+    {
+        "Id": 4,
+        "Name": "Ramesh",
+        "TotalMark": 20,
+        "TrustScore": 0,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-07-05",
+        "StId": 45,
+        "Link": "Ramesh_004Profile.jpg"
+    },
+    {
+        "Id": 5,
+        "Name": "Ruthik",
+        "TotalMark": 26,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_005Profile.jpg"
+    },
+    {
+        "Id": 6,
+        "Name": "Ruthik",
+        "TotalMark": 53,
+        "TrustScore": 96.0,
+        "Status": "Pass",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_006Profile.jpg"
+    },
+    {
+        "Id": 7,
+        "Name": "Ruthik",
+        "TotalMark": 60,
+        "TrustScore": 96.0,
+        "Status": "Pass",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_007Profile.jpg"
+    },
+    {
+        "Id": 8,
+        "Name": "Roshan",
+        "TotalMark": 60,
+        "TrustScore": 0,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-07-05",
+        "StId": 12345,
+        "Link": null
+    },
+    {
+        "Id": 9,
+        "Name": "Ruthik",
+        "TotalMark": 60,
+        "TrustScore": 100.0,
+        "Status": "Pass",
+        "Date": "2024-07-05",
+        "StId": 1234,
+        "Link": "Ruthik_009Profile.jpg"
+    }
+]
